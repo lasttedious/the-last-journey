@@ -56,10 +56,9 @@ This is the whole plan for my next journey. Let me explain what I have been doin
     - Buy a domain: [https://tediousmaker.com](https://tediousmaker.com)
     - Make a new email address: **hi@tediousmaker.com** with SquareSpace.
     - Make an Apple account based on that.
-    - Set up my computer.
+    - Set up my computer. and setup my devenv.
     - Make new accounts based on the name "tedious maker":
       - YouTube, Instagram, X, GitHub: **@tediousmaker**
-    - Use:
     - Make a repository **"languages"** in "tediousmaker":
       - Put stuff for JavaScript, TypeScript, Python, C, C++, C#, Rust, Go, Java for the first two months.
       - Put stuff for the main repository.
