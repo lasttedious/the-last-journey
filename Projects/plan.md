@@ -60,7 +60,7 @@ This is the whole plan for my next journey. Let me explain what I have been doin
     - Make new accounts based on the name "tedious maker":
       - YouTube, Instagram, X, GitHub: **@tediousmaker**
     - Make a repository **"languages"** in "tediousmaker":
-      - Put stuff for JavaScript, TypeScript, Python, C, C++, C#, Rust, Go, Java for the first two months.
+      - Put stuff for JavaScript, TypeScript, Python, C, C++, C#, Rust, Go, Java, MySQL, PostgreSQL, Git  for the first two months. https://www.w3schools.com
       - Put stuff for the main repository.
 
 Let’s start the YouTube channel by the time when I finish developing my first side project.
