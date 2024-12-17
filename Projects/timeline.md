@@ -1,12 +1,15 @@
-0800: Wake Up
+# Timeline
 
-1200: Work Session 1 & lunch at 13:00 work while eating
+08:00 - Wake Up
 
-1700: Work Session 2
+12:00 - 4hr Work Session 1
 
-1800: Dinner
+13:00 - Lunch
 
-2200: Work Session 3
+17:00 - 4hr Work Session 2
 
-2300: Entertain and go to sleep
+18:00 - Dinner
 
+23:00 - 5hr Work Session 3
+
+23:00 - Go to bed
