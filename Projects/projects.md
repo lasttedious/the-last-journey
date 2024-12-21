@@ -18,25 +18,24 @@
 | 7     | [Coolbits](./plans/software-services/coolbits.md)             | Share your cool stuff, get feedback, and improve.              | [coolbits.xyz](https://coolbits.xyz)           | [coolbits](https://github.com/voidsupernova/coolbits)           | `Later Public`                                | $0.00                                      |       |
 | 8     | [Zangvy](./plans/software-services/zangvy.md)                 | Share your tools and gears for your work with the public.      | [zangvy.xyz](https://zangvy.xyz)               | [zangvy](https://github.com/voidsupernova/zangvy)               | `Later Public`                                | $0.00                                      |       |
 | 9     | [Viary](./plans/software-services/viary.md)                   | Store your ideas every day, connect them, get of better ideas. | [viary.xyz](https://viary.xyz)                 | [viary](https://github.com/voidsupernova/viary)                 | `Private`                                     | $0.00                                      |       |
-| 10    | [Lifeishort](./plans/software-services/lifeishort.md)         | Life is short, man and something here                          | [lifeishort.xyz](https://lifeishort.xyz)       | [lifeishort](https://github.com/voidsupernova/lifeishort)       | `Private`                                     | $0.00                                      |       |
-| 11    | [Whats Up World](./plans/software-services/whatsupworld.md)   | What is going on the world?                                    | [whatsupworld.xyz](https://whatsupworld.xyz)   | [whatsupworld](https://github.com/voidsupernova/whatsupworld)   | `Private`                                     | $0.00                                      |       |
+| 10    | [Whats Up World](./plans/software-services/whatsupworld.md)   | What is going on the world?                                    | [whatsupworld.xyz](https://whatsupworld.xyz)   | [whatsupworld](https://github.com/voidsupernova/whatsupworld)   | `Private`                                     | $0.00                                      |       |
 
 ## Games
 
 | Order | <div style="width: 130px">Name</div>         | <div style="width: 450px">Catchphrase</div>     | Homepage                                   | <div style="width: 140px">GitHub</div>                      | <div style="width:120px">Public/Private</div> | <div style="width: 100px">Domain Fee</div> | Money |
 | ----- | -------------------------------------------- | ----------------------------------------------- | ------------------------------------------ | ----------------------------------------------------------- | --------------------------------------------- | ------------------------------------------ | ----- |
-| 12    | [WhereIZIT](./plans/games/whereizit.md)      | Find out where things are in pictures!          | [whereizit.xyz](https://whereizit.xyz)     | [whereizit](https://github.com/voidsupernova/whereizit)     | `Private`                                     | $0.00                                      |       |
-| 13    | [Hurry Up, Bro](./plans/games/hurryupbro.md) | Hurry up, or you will be eaten by !             | [hurryupbro.xyz](https://hurryupbro.xyz)   | [hurryupbro](https://github.com/voidsupernova/hurryupbro)   | `Private`                                     | $0.00                                      |       |
-| 14    | [SimpleWorlz](./plans/games/simpleworlz.md)  | Be careful, you don't know what others will do! | [simpleworlz.xyz](https://simpleworlz.xyz) | [simpleworlz](https://github.com/voidsupernova/simpleworlz) | `Private`                                     | $0.00                                      |       |
+| 11    | [WhereIZIT](./plans/games/whereizit.md)      | Find out where things are in pictures!          | [whereizit.xyz](https://whereizit.xyz)     | [whereizit](https://github.com/voidsupernova/whereizit)     | `Private`                                     | $0.00                                      |       |
+| 12    | [Hurry Up, Bro](./plans/games/hurryupbro.md) | Hurry up, or you will be eaten by !             | [hurryupbro.xyz](https://hurryupbro.xyz)   | [hurryupbro](https://github.com/voidsupernova/hurryupbro)   | `Private`                                     | $0.00                                      |       |
+| 13    | [SimpleWorlz](./plans/games/simpleworlz.md)  | Be careful, you don't know what others will do! | [simpleworlz.xyz](https://simpleworlz.xyz) | [simpleworlz](https://github.com/voidsupernova/simpleworlz) | `Private`                                     | $0.00                                      |       |
 
 ## Businesses
 
 | Order | <div style="width: 130px">Name</div>           | <div style="width: 450px">Catchphrase</div> | Homepage                                 | <div style="width: 140px">GitHub</div>                    | <div style="width:120px">Public/Private</div> | <div style="width: 100px">Domain Fee</div> | Money |
 | ----- | ---------------------------------------------- | ------------------------------------------- | ---------------------------------------- | --------------------------------------------------------- | --------------------------------------------- | ------------------------------------------ | ----- |
-| 15    | [VoidArts](./plans/businesses/voidarts.md)     | There is void in arts.                      | [voidarts.xyz](https://voidarts.xyz)     | [voidarts](https://github.com/voidsupernova/voidarts)     | `Private`                                     | $0.00                                      |       |
-| 16    | [VoidPuzzle](./plans/businesses/voidpuzzle.md) | Don't you want puzzle but in 3D?            | [voidpuzzle.xyz](https://voidpuzzle.xyz) | [voidpuzzle](https://github.com/voidsupernova/voidpuzzle) | `Private`                                     | $0.00                                      |       |
-| 17    | [Vestrum](./plans/businesses/vestrum.md)       | Best organizational tools only for you.     | [vestrum.xyz](https://vestrum.xyz)       | [vestrum](https://github.com/voidsupernova/vestrum)       | `Private`                                     | $0.00                                      |       |
-| 18    | [Ventria](./plans/businesses/ventria.md)       |                                             | [ventria.xyz](https://ventria.xyz)       | [ventria](https://github.com/voidsupernova/ventria)       | `Private`                                     | $0.00                                      |       |
+| 14    | [VoidArts](./plans/businesses/voidarts.md)     | There is void in arts.                      | [voidarts.xyz](https://voidarts.xyz)     | [voidarts](https://github.com/voidsupernova/voidarts)     | `Private`                                     | $0.00                                      |       |
+| 15    | [VoidPuzzle](./plans/businesses/voidpuzzle.md) | Don't you want puzzle but in 3D?            | [voidpuzzle.xyz](https://voidpuzzle.xyz) | [voidpuzzle](https://github.com/voidsupernova/voidpuzzle) | `Private`                                     | $0.00                                      |       |
+| 16    | [Vestrum](./plans/businesses/vestrum.md)       | Best organizational tools only for you.     | [vestrum.xyz](https://vestrum.xyz)       | [vestrum](https://github.com/voidsupernova/vestrum)       | `Private`                                     | $0.00                                      |       |
+| 17    | [Ventria](./plans/businesses/ventria.md)       |                                             | [ventria.xyz](https://ventria.xyz)       | [ventria](https://github.com/voidsupernova/ventria)       | `Private`                                     | $0.00                                      |       |
 
 ## Hardware Practices
 
@@ -53,3 +52,10 @@
 | [Vesture](./plans/hardware-practices/vesture.md)                   | [blog](https://voidsupernova.xyz/projects/vesture)            | [vesture](https://github.com/voidsupernova/vesture)                       | `Public`                                      | $0.00                                      |       |
 | [Droplet](./plans/hardware-practices/droplet.md)                   | [blog](https://voidsupernova.xyz/projects/droplet)            | [droplet](https://github.com/voidsupernova/droplet)                       | `Public`                                      | $0.00                                      |       |
 | [Kheria](./plans/hardware-practices/kheria.md)                     | [blog](https://voidsupernova.xyz/projects/kheria)             | [kheria](https://github.com/voidsupernova/kheria)                         | `Public`                                      | $0.00                                      |       |
+
+background thing
+cities
+move from left to right
+landmarks
+animations
+night and day
