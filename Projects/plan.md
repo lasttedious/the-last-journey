@@ -56,7 +56,36 @@ This is the whole plan for my next journey. Let me explain what I have been doin
 - Make new accounts based on the name "tedious maker":
   - YouTube, Instagram, X, GitHub: **@tediousmaker**
 - Make a repository **"languages"** in "tediousmaker":
-  - Put stuff for JavaScript, TypeScript, Python, C, C++, C#, Rust, Go, Java, MySQL, PostgreSQL, Git for the first two months. https://www.w3schools.com
+
+  - Put stuff for JavaScript, TypeScript, Python, C, C++, C#, Rust, Go, Java, Scala, Dart, MySQL, PostgreSQL, Git for the first one month. https://www.w3schools.com
+    - add Advent of Code for that
+    - servers, clients, database (NEVER USE ORMs!)
+    - JS/TS
+      - servers: nodejs expressjs nestjs fastify
+      - clients: reactjs
+    - C
+      - servers:
+      - clients:
+    - C++
+      - servers:
+      - clients:
+    - C#
+      - servers: dotnet
+      - clients:
+    - Rust
+      - servers:
+      - clients: axium
+    - Go
+      - servers: gin
+      - clients:
+    - Java
+      - servers:
+      - clients:
+    - Scala
+      - servers:
+      - clients:
+    - Dart
+      - clients: flutter
   - Put stuff for the main repository.
 
 Let’s start the YouTube channel by the time when I finish developing my first side project.
