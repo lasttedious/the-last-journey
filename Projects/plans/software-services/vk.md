@@ -18,6 +18,7 @@ CLI tool with a server by Go
 - Daily Reports
 - quick notes
 - videos
+- todos
 
 - When using vk commands, most of them will have windows where the users can move around freely using keyboards.
 - There are going to be six different windows that can fill out the screen. The first one is mostly going to be sidebar. The sidebar is like list of previous chats for AIs or file tree for editor. The other three windows are always free. All of them might be used for one purpose , or second and third windows might be used for one purpose. It can be customized.
