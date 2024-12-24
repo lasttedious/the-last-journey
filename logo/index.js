@@ -24,7 +24,7 @@ const pen = logo.getContext("2d");
 
 pen.fillStyle = "black";
 pen.strokeStyle = "white";
-pen.lineWidth = (stageSize.width + stageSize.height) / 80;
+pen.lineWidth = (stageSize.width + stageSize.height) / 300;
 
 pen.beginPath();
 pen.rect(0, 0, stageSize.width, stageSize.height);
